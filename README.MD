@@ -36,6 +36,7 @@
 │   ├── config
 │   │   ├── config.js
 │   │   └── db.js
+│   │   └── socket.js
 │   ├── swagger
 │   │   ├── route.js
 │   │   ├── swagger.json
